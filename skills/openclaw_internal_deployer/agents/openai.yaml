@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenClaw Internal Deployer"
+  short_description: "Deploy audited OpenClaw-native artifacts into runtime workspaces."
+  default_prompt: "Use $openclaw_internal_deployer to deploy this audited OpenClaw-native repository according to its deploy manifest."
